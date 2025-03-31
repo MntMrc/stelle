@@ -51,6 +51,7 @@
 
 ## Dockerfile 
 
+- [iakat/containers](https://github.com/iakat/containers) - Automated container builds
 - [SonarSource/docker-sonarqube](https://github.com/SonarSource/docker-sonarqube) - :whale: SonarQube in Docker
 
 ## Go 
@@ -102,6 +103,7 @@
 
 ## Others 
 
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [LacledesLAN/README.1ST](https://github.com/LacledesLAN/README.1ST) - The starting point of Laclede’s LAN on GitHub.
 - [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
 - [gerryguy311/Free_CyberSecurity_Professional_Development_Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources) - An awesome list of FREE resources for training, conferences, speaking, labs, reading, etc that are free. Originally built during COVID-19 for cybersecurity professionals with downtime can take advanta
@@ -144,6 +146,7 @@
 
 ## Python 
 
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [iakat/awesome-flipperzero-pack](https://github.com/iakat/awesome-flipperzero-pack) - Always fresh, downloadable zip files for all awesome-flipperzero resources ready to put in your microsd.
 - [schibsted/bigip-to-terraform](https://github.com/schibsted/bigip-to-terraform) - Transform running f5 bigip configuration to terraform resources
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
@@ -191,6 +194,8 @@
 
 ## Shell 
 
+- [adsblol/globe_history_2025](https://github.com/adsblol/globe_history_2025) - ✈️🗄 2025 Historical data for all aircrafts traces known to adsb.lol. Openly licensed.
+- [adsblol/feed](https://github.com/adsblol/feed) - 📡🛰 Easy to use, container-based MLAT/ADS-B/ACARS/VDL2 multi feed client
 - [iakat/ripe-atlas-software-probe-docker](https://github.com/iakat/ripe-atlas-software-probe-docker) - Docker image for the RIPE Atlas Software Probe, built daily.
 - [ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
 - [hoeghh/rancher-launcher-kvm](https://github.com/hoeghh/rancher-launcher-kvm) - An easy way to get a Rancher Kubernetes cluster up and running on KVM/Libvirt
