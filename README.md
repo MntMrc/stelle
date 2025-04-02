@@ -56,6 +56,8 @@
 
 ## Go 
 
+- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
+- [MntMrc/libpod](https://github.com/MntMrc/libpod) - libpod is a library used to create container pods. Home of Podman.
 - [clastix/cluster-api-control-plane-provider-kamaji](https://github.com/clastix/cluster-api-control-plane-provider-kamaji) - The Kamaji Control Plane provider implementation of the Cluster Management API
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 - [cri-o/cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
@@ -98,11 +100,13 @@
 
 ## Nix 
 
+- [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 
 ## Others 
 
+- [MntMrc/stelle](https://github.com/MntMrc/stelle) - awsome star
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [LacledesLAN/README.1ST](https://github.com/LacledesLAN/README.1ST) - The starting point of Laclede’s LAN on GitHub.
 - [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
@@ -146,6 +150,7 @@
 
 ## Python 
 
+- [MntMrc/ansible](https://github.com/MntMrc/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate i
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [iakat/awesome-flipperzero-pack](https://github.com/iakat/awesome-flipperzero-pack) - Always fresh, downloadable zip files for all awesome-flipperzero resources ready to put in your microsd.
 - [schibsted/bigip-to-terraform](https://github.com/schibsted/bigip-to-terraform) - Transform running f5 bigip configuration to terraform resources
@@ -194,6 +199,8 @@
 
 ## Shell 
 
+- [MntMrc/elastiflow](https://github.com/MntMrc/elastiflow) - Network flow analytics (Netflow, sFlow and IPFIX) with the Elastic Stack
+- [MntMrc/kubectl-aliases](https://github.com/MntMrc/kubectl-aliases) - Programmatically generated handy kubectl aliases.
 - [adsblol/globe_history_2025](https://github.com/adsblol/globe_history_2025) - ✈️🗄 2025 Historical data for all aircrafts traces known to adsb.lol. Openly licensed.
 - [adsblol/feed](https://github.com/adsblol/feed) - 📡🛰 Easy to use, container-based MLAT/ADS-B/ACARS/VDL2 multi feed client
 - [iakat/ripe-atlas-software-probe-docker](https://github.com/iakat/ripe-atlas-software-probe-docker) - Docker image for the RIPE Atlas Software Probe, built daily.
