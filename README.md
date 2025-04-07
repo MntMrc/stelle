@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Astro](#astro)
 - [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
@@ -29,6 +30,10 @@
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
+## Astro 
+
+- [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org
+
 ## Blade 
 
 - [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
@@ -51,11 +56,15 @@
 
 ## Dockerfile 
 
-- [iakat/containers](https://github.com/iakat/containers) - Automated container builds
+- [IAKAT/containers](https://github.com/IAKAT/containers) - Automated container builds
 - [SonarSource/docker-sonarqube](https://github.com/SonarSource/docker-sonarqube) - :whale: SonarQube in Docker
 
 ## Go 
 
+- [gardener/machine-controller-manager](https://github.com/gardener/machine-controller-manager) - Declarative way of managing machines for Kubernetes cluster
+- [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
+- [rancher/k3k](https://github.com/rancher/k3k) - Kubernetes in Kubernetes
+- [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [MntMrc/libpod](https://github.com/MntMrc/libpod) - libpod is a library used to create container pods. Home of Podman.
 - [clastix/cluster-api-control-plane-provider-kamaji](https://github.com/clastix/cluster-api-control-plane-provider-kamaji) - The Kamaji Control Plane provider implementation of the Cluster Management API
@@ -100,6 +109,10 @@
 
 ## Nix 
 
+- [thelegy/nixos-nftables-firewall](https://github.com/thelegy/nixos-nftables-firewall) - A zone based firewall built ontop of nftables for nixos
+- [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ My nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
+- [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
+- [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations.
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
@@ -152,7 +165,7 @@
 
 - [MntMrc/ansible](https://github.com/MntMrc/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate i
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-- [iakat/awesome-flipperzero-pack](https://github.com/iakat/awesome-flipperzero-pack) - Always fresh, downloadable zip files for all awesome-flipperzero resources ready to put in your microsd.
+- [IAKAT/awesome-flipperzero-pack](https://github.com/IAKAT/awesome-flipperzero-pack) - Always fresh, downloadable zip files for all awesome-flipperzero resources ready to put in your microsd.
 - [schibsted/bigip-to-terraform](https://github.com/schibsted/bigip-to-terraform) - Transform running f5 bigip configuration to terraform resources
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [corkami/collisions](https://github.com/corkami/collisions) - Hash collisions and exploitations
@@ -199,11 +212,12 @@
 
 ## Shell 
 
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=Mic92, Lassulus, phaer, Enzime]
 - [MntMrc/elastiflow](https://github.com/MntMrc/elastiflow) - Network flow analytics (Netflow, sFlow and IPFIX) with the Elastic Stack
 - [MntMrc/kubectl-aliases](https://github.com/MntMrc/kubectl-aliases) - Programmatically generated handy kubectl aliases.
 - [adsblol/globe_history_2025](https://github.com/adsblol/globe_history_2025) - ✈️🗄 2025 Historical data for all aircrafts traces known to adsb.lol. Openly licensed.
 - [adsblol/feed](https://github.com/adsblol/feed) - 📡🛰 Easy to use, container-based MLAT/ADS-B/ACARS/VDL2 multi feed client
-- [iakat/ripe-atlas-software-probe-docker](https://github.com/iakat/ripe-atlas-software-probe-docker) - Docker image for the RIPE Atlas Software Probe, built daily.
+- [IAKAT/ripe-atlas-software-probe-docker](https://github.com/IAKAT/ripe-atlas-software-probe-docker) - Docker image for the RIPE Atlas Software Probe, built daily.
 - [ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
 - [hoeghh/rancher-launcher-kvm](https://github.com/hoeghh/rancher-launcher-kvm) - An easy way to get a Rancher Kubernetes cluster up and running on KVM/Libvirt
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
