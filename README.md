@@ -17,6 +17,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Lua](#lua)
 - [Nix](#nix)
 - [Others](#others)
 - [PHP](#php)
@@ -114,8 +115,14 @@
 
 - [ubergeek42/weechat-android](https://github.com/ubergeek42/weechat-android) - Simple Weechat-Relay Android Client
 
+## Lua 
+
+- [ArchiveTeam/usgovernment-grab](https://github.com/ArchiveTeam/usgovernment-grab) - Archiving parts of the US government.
+
 ## Nix 
 
+- [redcode-labs/RedNix](https://github.com/redcode-labs/RedNix) - Hackable NixOS container and devShells collection
+- [redcode-labs/RedNixOS](https://github.com/redcode-labs/RedNixOS) - NixOS-based 'distro' for cybersecurity enthusiasts
 - [thelegy/nixos-nftables-firewall](https://github.com/thelegy/nixos-nftables-firewall) - A zone based firewall built ontop of nftables for nixos
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ My nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
@@ -126,6 +133,8 @@
 
 ## Others 
 
+- [offensive-security/exploitdb](https://github.com/offensive-security/exploitdb) - The legacy Exploit Database repository - New repo located at https://gitlab.com/exploit-database/exploitdb
+- [ansible-collections/news-for-maintainers](https://github.com/ansible-collections/news-for-maintainers) - Announcements of changes impacting collection contributors and maintainers
 - [MntMrc/stelle](https://github.com/MntMrc/stelle) - awsome star
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [LacledesLAN/README.1ST](https://github.com/LacledesLAN/README.1ST) - The starting point of Laclede’s LAN on GitHub.
@@ -170,6 +179,8 @@
 
 ## Python 
 
+- [ansible-collections/junipernetworks.junos](https://github.com/ansible-collections/junipernetworks.junos) - Ansible Network Collection for Juniper JunOS
+- [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) - ArchiveBot, an IRC bot for archiving websites
 - [MntMrc/ansible](https://github.com/MntMrc/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate i
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [IAKAT/awesome-flipperzero-pack](https://github.com/IAKAT/awesome-flipperzero-pack) - Always fresh, downloadable zip files for all awesome-flipperzero resources ready to put in your microsd.
