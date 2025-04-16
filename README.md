@@ -19,6 +19,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Nix](#nix)
 - [Others](#others)
 - [PHP](#php)
@@ -109,7 +110,6 @@
 - [jquery/jquery-ui](https://github.com/jquery/jquery-ui) - The official jQuery user interface library.
 - [DHoffm/Responsive-color-google-map](https://github.com/DHoffm/Responsive-color-google-map) - display a custom colored responsive Google map (api 3) in Joomla 2.5/3.0
 - [caseyhen/background-video](https://github.com/caseyhen/background-video) - Example of how to use Wistia for your background video
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [fengyuanchen/cropper](https://github.com/fengyuanchen/cropper) - ⚠️ [Deprecated] No longer maintained, please use https://github.com/fengyuanchen/jquery-cropper
 
 ## Jupyter Notebook 
@@ -123,6 +123,10 @@
 ## Lua 
 
 - [ArchiveTeam/usgovernment-grab](https://github.com/ArchiveTeam/usgovernment-grab) - Archiving parts of the US government.
+
+## MDX 
+
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Nix 
 
