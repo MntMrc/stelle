@@ -44,6 +44,7 @@
 
 ## C 
 
+- [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [openvswitch/ovs](https://github.com/openvswitch/ovs) - Open vSwitch
 - [vanhoefm/krackattacks-scripts](https://github.com/vanhoefm/krackattacks-scripts) - 
@@ -102,6 +103,7 @@
 
 ## JavaScript 
 
+- [glowing-bear/glowing-bear](https://github.com/glowing-bear/glowing-bear) - A web client for WeeChat
 - [kimchi-project/kimchi](https://github.com/kimchi-project/kimchi) - An HTML5 management interface for KVM guests
 - [jonschlinkert/global-prefix](https://github.com/jonschlinkert/global-prefix) - Get the npm global path prefix. Same code used internally by npm.
 - [Foliotek/Croppie](https://github.com/Foliotek/Croppie) - A Javascript Image Cropper
@@ -181,6 +183,7 @@
 
 ## Perl 
 
+- [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system
 - [fwaeytens/dnsenum](https://github.com/fwaeytens/dnsenum) - dnsenum is a perl script that enumerates DNS information
 
 ## PowerShell 
@@ -189,6 +192,7 @@
 
 ## Python 
 
+- [weechat/scripts](https://github.com/weechat/scripts) - Official scripts for WeeChat.
 - [ansible-collections/junipernetworks.junos](https://github.com/ansible-collections/junipernetworks.junos) - Ansible Network Collection for Juniper JunOS
 - [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) - ArchiveBot, an IRC bot for archiving websites
 - [MntMrc/ansible](https://github.com/MntMrc/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate i
