@@ -66,6 +66,7 @@
 
 ## Go 
 
+- [Foxboron/terraform-provider-openwrt](https://github.com/Foxboron/terraform-provider-openwrt) - 
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
@@ -83,6 +84,7 @@
 
 ## HTML 
 
+- [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) - Self-hosted Spotify downloader.
 - [mozilla/bedrock](https://github.com/mozilla/bedrock) - Making mozilla.org awesome, one pebble at a time
 - [canonical/docs.ubuntu.com](https://github.com/canonical/docs.ubuntu.com) - 
 - [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
@@ -92,6 +94,7 @@
 
 ## Haskell 
 
+- [nix-community/nixpkgs-update](https://github.com/nix-community/nixpkgs-update) - Updating nixpkgs packages since 2018
 - [awakesecurity/hocker](https://github.com/awakesecurity/hocker) - Utilities for interacting with the docker registry and generating nix build instructions
 
 ## Java 
