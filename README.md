@@ -57,6 +57,7 @@
 
 ## C++ 
 
+- [f18m/large-pcap-analyzer](https://github.com/f18m/large-pcap-analyzer) - A command-line utility program that performs some simple operations on PCAP files (Wireshark/tcpdump traces) very quickly. Allows you to manipulate very large PCAP files that cannot be easily handled 
 - [eteran/edb-debugger](https://github.com/eteran/edb-debugger) - edb is a cross-platform AArch32/x86/x86-64 debugger.
 
 ## Dockerfile 
@@ -195,6 +196,7 @@
 
 ## Python 
 
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [weechat/scripts](https://github.com/weechat/scripts) - Official scripts for WeeChat.
 - [ansible-collections/junipernetworks.junos](https://github.com/ansible-collections/junipernetworks.junos) - Ansible Network Collection for Juniper JunOS
 - [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) - ArchiveBot, an IRC bot for archiving websites
