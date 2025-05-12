@@ -21,6 +21,7 @@
 - [Lua](#lua)
 - [MDX](#mdx)
 - [Nix](#nix)
+- [Nu](#nu)
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
@@ -58,6 +59,7 @@
 
 ## C++ 
 
+- [unetbootin/unetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive
 - [f18m/large-pcap-analyzer](https://github.com/f18m/large-pcap-analyzer) - A command-line utility program that performs some simple operations on PCAP files (Wireshark/tcpdump traces) very quickly. Allows you to manipulate very large PCAP files that cannot be easily handled 
 - [eteran/edb-debugger](https://github.com/eteran/edb-debugger) - edb is a cross-platform AArch32/x86/x86-64 debugger.
 
@@ -147,6 +149,10 @@
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
+
+## Nu 
+
+- [ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
 
 ## Others 
 
@@ -259,7 +265,6 @@
 - [adsblol/globe_history_2025](https://github.com/adsblol/globe_history_2025) - ✈️🗄 2025 Historical data for all aircrafts traces known to adsb.lol. Openly licensed.
 - [adsblol/feed](https://github.com/adsblol/feed) - 📡🛰 Easy to use, container-based MLAT/ADS-B/ACARS/VDL2 multi feed client
 - [iakat/ripe-atlas-software-probe-docker](https://github.com/iakat/ripe-atlas-software-probe-docker) - Docker image for the RIPE Atlas Software Probe, built daily.
-- [ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
 - [hoeghh/rancher-launcher-kvm](https://github.com/hoeghh/rancher-launcher-kvm) - An easy way to get a Rancher Kubernetes cluster up and running on KVM/Libvirt
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [kristenjacobs/container-networking](https://github.com/kristenjacobs/container-networking) - Container networking from scratch, from a single namespace to an overlay network.
