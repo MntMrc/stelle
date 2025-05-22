@@ -278,6 +278,7 @@
 
 ## TypeScript 
 
+- [FunkeyFlo/ps5-mqtt](https://github.com/FunkeyFlo/ps5-mqtt) - Integrate your PlayStation 5 with Home Assistant
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 
 ## Vue 
