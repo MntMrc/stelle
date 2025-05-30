@@ -259,7 +259,7 @@
 ## Shell 
 
 - [hykilpikonna/hyfetch](https://github.com/hykilpikonna/hyfetch) - 🏳️‍🌈 🏳️‍⚧️ Neofetch with LGBTQ+ pride flags!
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime]
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
 - [MntMrc/elastiflow](https://github.com/MntMrc/elastiflow) - Network flow analytics (Netflow, sFlow and IPFIX) with the Elastic Stack
 - [MntMrc/kubectl-aliases](https://github.com/MntMrc/kubectl-aliases) - Programmatically generated handy kubectl aliases.
 - [adsblol/globe_history_2025](https://github.com/adsblol/globe_history_2025) - ✈️🗄 2025 Historical data for all aircrafts traces known to adsb.lol. Openly licensed.
