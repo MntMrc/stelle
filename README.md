@@ -91,7 +91,7 @@
 - [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) - Self-hosted Spotify downloader.
 - [mozilla/bedrock](https://github.com/mozilla/bedrock) - Making mozilla.org awesome, one pebble at a time
 - [canonical/docs.ubuntu.com](https://github.com/canonical/docs.ubuntu.com) - 
-- [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
+- [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 5 Admin Dashboard Template
 - [metafizzy/isotope](https://github.com/metafizzy/isotope) - :revolving_hearts: Filter & sort magical layouts
 - [kristoferjoseph/flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid) - Grid based on CSS3 flexbox
 - [diafygi/webrtc-ips](https://github.com/diafygi/webrtc-ips) - Demo: https://diafygi.github.io/webrtc-ips/
