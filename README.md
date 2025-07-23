@@ -157,6 +157,7 @@
 
 ## Others 
 
+- [WCHSoftGroup/ch34xser_macos](https://github.com/WCHSoftGroup/ch34xser_macos) - MacOS USB driver for USB to serial chip ch340, ch341, ch342, ch343, ch344, ch9101, ch9102, ch9103, etc
 - [offensive-security/exploitdb](https://github.com/offensive-security/exploitdb) - The legacy Exploit Database repository - New repo located at https://gitlab.com/exploit-database/exploitdb
 - [ansible-collections/news-for-maintainers](https://github.com/ansible-collections/news-for-maintainers) - Announcements of changes impacting collection contributors and maintainers
 - [MntMrc/stelle](https://github.com/MntMrc/stelle) - awsome star
