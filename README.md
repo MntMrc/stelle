@@ -89,7 +89,7 @@
 
 ## HTML 
 
-- [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) - Self-hosted Spotify downloader.
+- [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) - Self-hosted Spotify downloader
 - [mozilla/bedrock](https://github.com/mozilla/bedrock) - Making mozilla.org awesome, one pebble at a time
 - [canonical/docs.ubuntu.com](https://github.com/canonical/docs.ubuntu.com) - 
 - [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 5 Admin Dashboard Template
