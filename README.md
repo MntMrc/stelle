@@ -45,6 +45,7 @@
 
 ## C 
 
+- [CyberSaiyanIT/why2025-badge](https://github.com/CyberSaiyanIT/why2025-badge) - Cyber Saiyan community has designed and developed a special gadget for WHY2025.  The badge was designed to recall the dragon spheres, and is an updated version of RomHack Camp 2022 badge, both in term
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
@@ -283,6 +284,7 @@
 
 ## TypeScript 
 
+- [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [FunkeyFlo/ps5-mqtt](https://github.com/FunkeyFlo/ps5-mqtt) - Integrate your PlayStation 5 with Home Assistant
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 
