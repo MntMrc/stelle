@@ -22,6 +22,7 @@
 - [MDX](#mdx)
 - [Nix](#nix)
 - [Nu](#nu)
+- [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
@@ -45,6 +46,8 @@
 
 ## C 
 
+- [ZerBea/hcxdumptool](https://github.com/ZerBea/hcxdumptool) - Small tool to capture packets from wlan devices.
+- [RealEnder/imeigen](https://github.com/RealEnder/imeigen) - Simple WPA-PSK default password candidates generator for mobile broadband WIFI routers, based on IMEI
 - [CyberSaiyanIT/why2025-badge](https://github.com/CyberSaiyanIT/why2025-badge) - Cyber Saiyan community has designed and developed a special gadget for WHY2025.  The badge was designed to recall the dragon spheres, and is an updated version of RomHack Camp 2022 badge, both in term
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
@@ -151,11 +154,14 @@
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations.
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
-- [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 
 ## Nu 
 
 - [ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
+
+## Objective-C 
+
+- [routerkeygen/routerkeygenPC](https://github.com/routerkeygen/routerkeygenPC) - Qt Port for Linux, Mac OSX and Windows
 
 ## Others 
 
@@ -287,6 +293,7 @@
 
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [FunkeyFlo/ps5-mqtt](https://github.com/FunkeyFlo/ps5-mqtt) - Integrate your PlayStation 5 with Home Assistant
+- [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 
 ## Vue 
