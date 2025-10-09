@@ -297,7 +297,7 @@
 
 ## Vue 
 
-- [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) - Self-hosted Spotify downloader
+- [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) - Download your Spotify playlists and songs along with album art and metadata in a self-hosted way via Docker
 - [moshe/elasticsearch-comrade](https://github.com/moshe/elasticsearch-comrade) - Elasticsearch admin panel built for ops and monitoring
 
 
