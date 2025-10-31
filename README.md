@@ -47,6 +47,7 @@
 
 ## C 
 
+- [lxc/lxc](https://github.com/lxc/lxc) - LXC - Linux Containers
 - [ZerBea/hcxdumptool](https://github.com/ZerBea/hcxdumptool) - Small tool to capture packets from wlan devices.
 - [RealEnder/imeigen](https://github.com/RealEnder/imeigen) - Simple WPA-PSK default password candidates generator for mobile broadband WIFI routers, based on IMEI
 - [CyberSaiyanIT/why2025-badge](https://github.com/CyberSaiyanIT/why2025-badge) - Cyber Saiyan community has designed and developed a special gadget for WHY2025.  The badge was designed to recall the dragon spheres, and is an updated version of RomHack Camp 2022 badge, both in term
@@ -75,6 +76,7 @@
 
 ## Go 
 
+- [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
 - [chainguard-dev/kaniko](https://github.com/chainguard-dev/kaniko) - Build Container Images In Kubernetes
 - [Foxboron/terraform-provider-openwrt](https://github.com/Foxboron/terraform-provider-openwrt) - openwrt OpenTofu/terraform provider
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
