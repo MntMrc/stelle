@@ -76,6 +76,7 @@
 
 ## Go 
 
+- [Kuadrant/dns-operator](https://github.com/Kuadrant/dns-operator) - Kuadrant DNS Operator
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
 - [chainguard-dev/kaniko](https://github.com/chainguard-dev/kaniko) - Build Container Images In Kubernetes
 - [Foxboron/terraform-provider-openwrt](https://github.com/Foxboron/terraform-provider-openwrt) - openwrt OpenTofu/terraform provider
