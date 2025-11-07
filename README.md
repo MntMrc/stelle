@@ -65,6 +65,7 @@
 
 ## C++ 
 
+- [raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager) - The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices.
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [unetbootin/unetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive
 - [f18m/large-pcap-analyzer](https://github.com/f18m/large-pcap-analyzer) - A command-line utility program that performs some simple operations on PCAP files (Wireshark/tcpdump traces) very quickly. Allows you to manipulate very large PCAP files that cannot be easily handled 
