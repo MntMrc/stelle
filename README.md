@@ -47,6 +47,7 @@
 
 ## C 
 
+- [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
 - [lxc/lxc](https://github.com/lxc/lxc) - LXC - Linux Containers
 - [ZerBea/hcxdumptool](https://github.com/ZerBea/hcxdumptool) - Small tool to capture packets from wlan devices.
 - [RealEnder/imeigen](https://github.com/RealEnder/imeigen) - Simple WPA-PSK default password candidates generator for mobile broadband WIFI routers, based on IMEI
