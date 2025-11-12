@@ -47,6 +47,9 @@
 
 ## C 
 
+- [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
+- [kimocoder/bully](https://github.com/kimocoder/bully) - Bully WPS Attack Tool
+- [br101/horst](https://github.com/br101/horst) - “horst” - lightweight IEEE802.11 wireless LAN analyzer with a text interface
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
 - [lxc/lxc](https://github.com/lxc/lxc) - LXC - Linux Containers
 - [ZerBea/hcxdumptool](https://github.com/ZerBea/hcxdumptool) - Small tool to capture packets from wlan devices.
@@ -225,6 +228,7 @@
 
 ## Python 
 
+- [kimocoder/wifite2](https://github.com/kimocoder/wifite2) - Rewrite of the popular wireless network auditor, "wifite" - original by @derv82
 - [DanBeard/RETCON](https://github.com/DanBeard/RETCON) - RETCON is a streamlined, deployment-focused solution for Reticulum mesh networking.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [weechat/scripts](https://github.com/weechat/scripts) - Official scripts for WeeChat.
