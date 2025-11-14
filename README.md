@@ -81,6 +81,8 @@
 
 ## Go 
 
+- [syself/cluster-api-provider-hetzner](https://github.com/syself/cluster-api-provider-hetzner) - Cluster API Provider Hetzner :rocket: The best way to manage Kubernetes clusters on Hetzner, fully declarative, Kubernetes-native and with self-healing capabilities
+- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [Kuadrant/dns-operator](https://github.com/Kuadrant/dns-operator) - Kuadrant DNS Operator
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
 - [chainguard-dev/kaniko](https://github.com/chainguard-dev/kaniko) - Build Container Images In Kubernetes
