@@ -231,6 +231,7 @@
 
 ## Python 
 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [kimocoder/wifite2](https://github.com/kimocoder/wifite2) - Rewrite of the popular wireless network auditor, "wifite" - original by @derv82
 - [DanBeard/RETCON](https://github.com/DanBeard/RETCON) - RETCON is a streamlined, deployment-focused solution for Reticulum mesh networking.
