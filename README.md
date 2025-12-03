@@ -77,6 +77,7 @@
 
 ## Dockerfile 
 
+- [OctoPrint/octoprint-docker](https://github.com/OctoPrint/octoprint-docker) - The dockerized snappy web interface for your 3D printer!
 - [iakat/containers](https://github.com/iakat/containers) - Automated container builds
 
 ## Go 
