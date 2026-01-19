@@ -263,7 +263,7 @@
 - [NationalSecurityAgency/lemongraph](https://github.com/NationalSecurityAgency/lemongraph) - Log-based transactional graph engine
 - [Qiskit/qiskit](https://github.com/Qiskit/qiskit) - Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives.
 - [1111joe1111/ida_ea](https://github.com/1111joe1111/ida_ea) - A set of exploitation/reversing aids for IDA
-- [pietroalbini/reddit-place-2017](https://github.com/pietroalbini/reddit-place-2017) - Archive of Reddit's r/place data, history and images
+- [emilyalbini/reddit-place-2017](https://github.com/emilyalbini/reddit-place-2017) - Archive of Reddit's r/place data, history and images
 - [nickoala/telepot](https://github.com/nickoala/telepot) - Python framework for Telegram Bot API
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [pyinvoke/invoke](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
