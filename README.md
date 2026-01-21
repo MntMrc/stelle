@@ -215,7 +215,7 @@
 - [lirantal/daloradius](https://github.com/lirantal/daloradius) - daloRADIUS is an advanced RADIUS web management application for managing hotspots and general-purpose ISP deployments. It features user management, graphical reporting, accounting, a billing engine, a
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [symfony/demo](https://github.com/symfony/demo) - Symfony Demo Application
-- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax.
 - [hugues-m/phpunit-vw](https://github.com/hugues-m/phpunit-vw) - VW PHPUnit extension makes your failing test cases succeed under CI tools scrutiny
 - [tomcur/CookieTokenAuth](https://github.com/tomcur/CookieTokenAuth) - A CakePHP plugin to provide secure cookie authentication
 - [hbattat/verifyEmail](https://github.com/hbattat/verifyEmail) - PHP class that can be easily used to verify an email address and make sure it is valid and does exist on the mail server. For a supported option please visit the site
