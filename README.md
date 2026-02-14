@@ -296,6 +296,7 @@
 
 ## Shell 
 
+- [QubesOS/qubes-antievilmaid](https://github.com/QubesOS/qubes-antievilmaid) - Qubes component: antievilmaid
 - [hykilpikonna/hyfetch](https://github.com/hykilpikonna/hyfetch) - 🏳️‍🌈 🏳️‍⚧️ Neofetch with LGBTQ+ pride flags!
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
 - [MntMrc/elastiflow](https://github.com/MntMrc/elastiflow) - Network flow analytics (Netflow, sFlow and IPFIX) with the Elastic Stack
