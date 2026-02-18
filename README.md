@@ -123,7 +123,7 @@
 ## Java 
 
 - [redhat-developer-demos/hybrid-cloud](https://github.com/redhat-developer-demos/hybrid-cloud) - Hybrid Cloud Demo using OpenShift on Multiple Clouds (Public/Private)
-- [elastic/support-diagnostics](https://github.com/elastic/support-diagnostics) - Support diagnostics utility for elasticsearch and logstash
+- [elastic/support-diagnostics](https://github.com/elastic/support-diagnostics) - 
 - [hlavki/g-suite-identity-sync](https://github.com/hlavki/g-suite-identity-sync) - G Suite to LDAP identity synchronizer
 - [chrisk44/Hijacker](https://github.com/chrisk44/Hijacker) - Aircrack, Airodump, Aireplay, MDK3 and Reaver GUI Application for Android
 
