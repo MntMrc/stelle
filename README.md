@@ -80,7 +80,6 @@
 ## Dockerfile 
 
 - [OctoPrint/octoprint-docker](https://github.com/OctoPrint/octoprint-docker) - The dockerized snappy web interface for your 3D printer!
-- [iakat/containers](https://github.com/iakat/containers) - Automated container builds
 
 ## Go 
 
@@ -307,6 +306,7 @@
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
 - [MntMrc/elastiflow](https://github.com/MntMrc/elastiflow) - Network flow analytics (Netflow, sFlow and IPFIX) with the Elastic Stack
 - [MntMrc/kubectl-aliases](https://github.com/MntMrc/kubectl-aliases) - Programmatically generated handy kubectl aliases.
+- [iakat/containers](https://github.com/iakat/containers) - Automated container builds
 - [adsblol/globe_history_2025](https://github.com/adsblol/globe_history_2025) - ✈️🗄 2025 Historical data for all aircrafts traces known to adsb.lol. Openly licensed.
 - [adsblol/feed](https://github.com/adsblol/feed) - 📡🛰 Easy to use, container-based MLAT/ADS-B/ACARS/VDL2 multi feed client
 - [iakat/ripe-atlas-software-probe-docker](https://github.com/iakat/ripe-atlas-software-probe-docker) - Docker image for the RIPE Atlas Software Probe, built daily.
