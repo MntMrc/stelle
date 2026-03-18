@@ -48,6 +48,7 @@
 
 ## C 
 
+- [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 - [vanhoefm/airsnitch](https://github.com/vanhoefm/airsnitch) - Generalized Wi-Fi Client Isolation Bypasses
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 - [kimocoder/bully](https://github.com/kimocoder/bully) - Bully WPS Attack Tool
