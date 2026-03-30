@@ -194,6 +194,7 @@
 
 ## Others 
 
+- [Elias55745/mini-laser-printer](https://github.com/Elias55745/mini-laser-printer) - mini laser printer
 - [VoronDesign/Voron-2](https://github.com/VoronDesign/Voron-2) - Voron 2 CoreXY 3D Printer design
 - [Bundy01/EasyEffects-Presets](https://github.com/Bundy01/EasyEffects-Presets) - Presets for EasyEffects (Bose, Music, Sony and Video).
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
