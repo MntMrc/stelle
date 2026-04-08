@@ -232,7 +232,7 @@
 
 ## Perl 
 
-- [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system
+- [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system [maintainers=@dasj,@Ericson2314]
 - [fwaeytens/dnsenum](https://github.com/fwaeytens/dnsenum) - dnsenum is a perl script that enumerates DNS information
 
 ## PowerShell 
