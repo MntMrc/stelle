@@ -252,7 +252,7 @@
 - [ansible-collections/junipernetworks.junos](https://github.com/ansible-collections/junipernetworks.junos) - Ansible Network Collection for Juniper JunOS
 - [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) - ArchiveBot, an IRC bot for archiving websites
 - [MntMrc/ansible](https://github.com/MntMrc/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate i
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 - [iakat/awesome-flipperzero-pack](https://github.com/iakat/awesome-flipperzero-pack) - Always fresh, downloadable zip files for all awesome-flipperzero resources ready to put in your microsd.
 - [schibsted/bigip-to-terraform](https://github.com/schibsted/bigip-to-terraform) - Transform running f5 bigip configuration to terraform resources
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
