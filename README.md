@@ -248,6 +248,7 @@
 - [kimocoder/wifite2](https://github.com/kimocoder/wifite2) - Rewrite of the popular wireless network auditor, "wifite" - original by @derv82
 - [DanBeard/RETCON](https://github.com/DanBeard/RETCON) - RETCON is a streamlined, deployment-focused solution for Reticulum mesh networking.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) - Download your playlists and songs, along with album art and metadata, in a self-hosted format via Docker
 - [weechat/scripts](https://github.com/weechat/scripts) - Official scripts for WeeChat.
 - [ansible-collections/junipernetworks.junos](https://github.com/ansible-collections/junipernetworks.junos) - Ansible Network Collection for Juniper JunOS
 - [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) - ArchiveBot, an IRC bot for archiving websites
@@ -329,7 +330,6 @@
 
 ## Vue 
 
-- [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) - Download your Spotify playlists and songs along with album art and metadata in a self-hosted way via Docker
 - [moshe/elasticsearch-comrade](https://github.com/moshe/elasticsearch-comrade) - Elasticsearch admin panel built for ops and monitoring
 
 
