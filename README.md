@@ -27,6 +27,7 @@
 - [OpenSCAD](#openscad)
 - [Others](#others)
 - [PHP](#php)
+- [PLpgSQL](#plpgsql)
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
@@ -230,9 +231,12 @@
 - [cakephp/cakephp](https://github.com/cakephp/cakephp) - CakePHP: The Rapid Development Framework for PHP - Official Repository
 - [zendframework/ZendSkeletonApplication](https://github.com/zendframework/ZendSkeletonApplication) - Skeleton application for zend-mvc projects
 
-## Perl 
+## PLpgSQL 
 
 - [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system [maintainers=@dasj,@Ericson2314]
+
+## Perl 
+
 - [fwaeytens/dnsenum](https://github.com/fwaeytens/dnsenum) - dnsenum is a perl script that enumerates DNS information
 
 ## PowerShell 
