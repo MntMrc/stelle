@@ -48,6 +48,7 @@
 
 ## C 
 
+- [V4bel/ITScape](https://github.com/V4bel/ITScape) - 
 - [v12-security/pocs](https://github.com/v12-security/pocs) - poc it like it's hot
 - [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) - 
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
@@ -221,6 +222,7 @@
 
 ## PHP 
 
+- [tt-rss/tt-rss](https://github.com/tt-rss/tt-rss) - A free, flexible, open-source, web-based news feed (RSS/Atom/other) reader and aggregator.
 - [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
 - [lirantal/daloradius](https://github.com/lirantal/daloradius) - daloRADIUS is an advanced RADIUS web management application for managing hotspots and general-purpose ISP deployments. It features user management, graphical reporting, accounting, a billing engine, a
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
