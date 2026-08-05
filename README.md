@@ -314,6 +314,7 @@
 
 ## Shell 
 
+- [mohi-devhub/antivibe](https://github.com/mohi-devhub/antivibe) - Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives.
 - [QubesOS/qubes-antievilmaid](https://github.com/QubesOS/qubes-antievilmaid) - Qubes component: antievilmaid
 - [hykilpikonna/hyfetch](https://github.com/hykilpikonna/hyfetch) - 🏳️‍🌈 🏳️‍⚧️ Neofetch with LGBTQ+ pride flags!
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
