@@ -202,7 +202,7 @@
 - [offensive-security/exploitdb](https://github.com/offensive-security/exploitdb) - The legacy Exploit Database repository - New repo located at https://gitlab.com/exploit-database/exploitdb
 - [ansible-collections/news-for-maintainers](https://github.com/ansible-collections/news-for-maintainers) - Announcements of changes impacting collection contributors and maintainers
 - [MntMrc/stelle](https://github.com/MntMrc/stelle) - awsome star
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [LacledesLAN/README.1ST](https://github.com/LacledesLAN/README.1ST) - The starting point of Laclede’s LAN on GitHub.
 - [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
 - [gerryguy311/Free_CyberSecurity_Professional_Development_Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources) - An awesome list of FREE resources for training, conferences, speaking, labs, reading, etc that are free. Originally built during COVID-19 for cybersecurity professionals with downtime can take advanta
