@@ -98,7 +98,7 @@
 - [Foxboron/terraform-provider-openwrt](https://github.com/Foxboron/terraform-provider-openwrt) - openwrt OpenTofu/terraform provider
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices, users, and agents into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [gardener/machine-controller-manager](https://github.com/gardener/machine-controller-manager) - Declarative way of managing machines for Kubernetes cluster
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [rancher/k3k](https://github.com/rancher/k3k) - Kubernetes in Kubernetes
@@ -258,7 +258,7 @@
 - [kimocoder/wifite2](https://github.com/kimocoder/wifite2) - Rewrite of the popular wireless network auditor, "wifite" - original by @derv82
 - [DanBeard/RETCON](https://github.com/DanBeard/RETCON) - RETCON is a streamlined, deployment-focused solution for Reticulum mesh networking.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) - Download your playlists and songs, along with album art and metadata, in a self-hosted format via Docker
+- [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) - Download and listen to your music and playlists, along with album art and metadata
 - [weechat/scripts](https://github.com/weechat/scripts) - Official scripts for WeeChat.
 - [ansible-collections/junipernetworks.junos](https://github.com/ansible-collections/junipernetworks.junos) - Ansible Network Collection for Juniper JunOS
 - [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) - ArchiveBot, an IRC bot for archiving websites
