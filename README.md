@@ -107,7 +107,6 @@
 - [MntMrc/libpod](https://github.com/MntMrc/libpod) - libpod is a library used to create container pods. Home of Podman.
 - [clastix/cluster-api-control-plane-provider-kamaji](https://github.com/clastix/cluster-api-control-plane-provider-kamaji) - The Kamaji Control Plane provider implementation of the Cluster Management API
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
-- [SonarSource/docker-sonarqube](https://github.com/SonarSource/docker-sonarqube) - :whale: SonarQube in Docker
 - [cri-o/cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
 - [helm/charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
@@ -270,6 +269,7 @@
 - [corkami/collisions](https://github.com/corkami/collisions) - Hash collisions and exploitations
 - [flipperdevices/flipperzero-ufbt](https://github.com/flipperdevices/flipperzero-ufbt) - Compact tool for building and debugging applications for Flipper Zero.
 - [TCM-Course-Resources/Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources) - Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course
+- [SonarSource/docker-sonarqube](https://github.com/SonarSource/docker-sonarqube) - :whale: SonarQube in Docker
 - [trehn/termdown](https://github.com/trehn/termdown) - Countdown timer and stopwatch in your terminal
 - [kimchi-project/wok](https://github.com/kimchi-project/wok) - A cherrypy framework for multi-purpose plug-ins
 - [openshift/openshift-ansible](https://github.com/openshift/openshift-ansible) - Install and config an OpenShift 3.x cluster
