@@ -286,7 +286,7 @@
 - [nickoala/telepot](https://github.com/nickoala/telepot) - Python framework for Telegram Bot API
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [pyinvoke/invoke](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
-- [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
+- [pypa/pip-tools](https://github.com/pypa/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [anurag90x/flask-pundit](https://github.com/anurag90x/flask-pundit) - A flask extension for managing permissions and scopes
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [flask-restful/flask-restful](https://github.com/flask-restful/flask-restful) - Simple framework for creating REST APIs
