@@ -171,7 +171,7 @@
 
 ## Nix 
 
-- [redcode-labs/RedNix](https://github.com/redcode-labs/RedNix) - Hackable NixOS container and devShells collection
+- [redcode-labs/RedNix](https://github.com/redcode-labs/RedNix) - Hackable NixOS devShell collection with MicroVM, supporting Linux and macOS hosts. Made for cybersecurity enthusiasts and professionals.
 - [redcode-labs/RedNixOS](https://github.com/redcode-labs/RedNixOS) - NixOS-based 'distro' for cybersecurity enthusiasts
 - [thelegy/nixos-nftables-firewall](https://github.com/thelegy/nixos-nftables-firewall) - A zone based firewall built ontop of nftables for nixos
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ My nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
