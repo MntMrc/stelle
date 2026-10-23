@@ -12,7 +12,6 @@
 - [C++](#c++)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
-- [Go Template](#go-template)
 - [HTML](#html)
 - [Haskell](#haskell)
 - [Java](#java)
@@ -111,10 +110,6 @@
 - [cri-o/cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
 - [helm/charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-
-## Go Template 
-
-- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs.
 
 ## HTML 
 
@@ -329,6 +324,7 @@
 - [hoeghh/rancher-launcher-kvm](https://github.com/hoeghh/rancher-launcher-kvm) - An easy way to get a Rancher Kubernetes cluster up and running on KVM/Libvirt
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [kristenjacobs/container-networking](https://github.com/kristenjacobs/container-networking) - Container networking from scratch, from a single namespace to an overlay network.
+- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs.
 - [AdopteUnOps/rancher-ansible](https://github.com/AdopteUnOps/rancher-ansible) - 
 - [screetsec/Dracnmap](https://github.com/screetsec/Dracnmap) - Dracnmap is an open source program which is using to exploit the network and gathering information with nmap help. Nmap command comes with lots of options that can make the utility more robust and dif
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
