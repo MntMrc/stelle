@@ -128,6 +128,7 @@
 
 ## Java 
 
+- [MarkBlah/smsofdeath](https://github.com/MarkBlah/smsofdeath) - remote + silent denial of service for all Android phones. https://smsofdeath.com/ for writeup.
 - [redhat-developer-demos/hybrid-cloud](https://github.com/redhat-developer-demos/hybrid-cloud) - Hybrid Cloud Demo using OpenShift on Multiple Clouds (Public/Private)
 - [elastic/support-diagnostics](https://github.com/elastic/support-diagnostics) - 
 - [hlavki/g-suite-identity-sync](https://github.com/hlavki/g-suite-identity-sync) - G Suite to LDAP identity synchronizer
