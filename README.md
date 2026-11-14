@@ -193,7 +193,7 @@
 
 - [Elias55745/mini-laser-printer](https://github.com/Elias55745/mini-laser-printer) - mini laser printer
 - [VoronDesign/Voron-2](https://github.com/VoronDesign/Voron-2) - Voron 2 CoreXY 3D Printer design
-- [Bundy01/EasyEffects-Presets](https://github.com/Bundy01/EasyEffects-Presets) - Presets for EasyEffects (Bose, Music, Sony and Video).
+- [Bundy01/EasyEffects-Presets](https://github.com/Bundy01/EasyEffects-Presets) - Presets for EasyEffects (Bose, Music, Serie&Film, Sony and TV&Docu).
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [WCHSoftGroup/ch34xser_macos](https://github.com/WCHSoftGroup/ch34xser_macos) - MacOS USB driver for USB to serial chip ch340, ch341, ch342, ch343, ch344, ch9101, ch9102, ch9103, etc
 - [offensive-security/exploitdb](https://github.com/offensive-security/exploitdb) - The legacy Exploit Database repository - New repo located at https://gitlab.com/exploit-database/exploitdb
